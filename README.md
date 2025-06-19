@@ -41,7 +41,7 @@ A lightweight, modular, and color-enhanced reconnaissance CLI tool designed for 
 ### 🔧 Installation
 
 ```bash
-git clone https://github.com/youruser/recon-tool
+git clone https://github.com/ashardian/recon-tool
 cd recon-tool
 pip install -r requirements.txt
 sudo apt install whatweb whois
