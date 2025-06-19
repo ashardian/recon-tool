@@ -45,6 +45,8 @@ git clone https://github.com/ashardian/recon-tool
 cd recon-tool
 pip install -r requirements.txt
 sudo apt install whatweb whois
+unzip recon_tool_final.zip
+cd recon_tool_final
 ```
 
 ### 🧪 Run Example
