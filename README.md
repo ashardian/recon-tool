@@ -48,6 +48,21 @@ sudo apt install whatweb whois
 unzip recon_tool_final.zip
 cd recon_tool_final
 ```
+## 🧰 Setting Up a Virtual Environment (Recommended)
+
+To avoid dependency conflicts, it is recommended to create and use a Python virtual environment.
+
+```bash
+# Create a virtual environment named 'venv'
+python3 -m venv venv
+
+# Activate the virtual environment
+source venv/bin/activate  # For Linux/macOS
+
+# For Windows (PowerShell)
+# .\\venv\\Scripts\\Activate.ps1
+```
+
 
 ### 🧪 Run Example
 
