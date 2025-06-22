@@ -49,8 +49,6 @@ python3 -m venv venv
 # Activate the virtual environment
 source venv/bin/activate  # For Linux/macOS
 
-# For Windows (PowerShell)
-# .\\venv\\Scripts\\Activate.ps1
 ```
 
 
