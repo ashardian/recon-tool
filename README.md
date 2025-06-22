@@ -38,16 +38,6 @@ A lightweight, modular, and color-enhanced reconnaissance CLI tool designed for 
 
 ## 🚀 How to Use
 
-### 🔧 Installation
-
-```bash
-git clone https://github.com/ashardian/recon-tool
-cd recon-tool
-pip install -r requirements.txt
-sudo apt install whatweb whois
-unzip recon_tool_final.zip
-cd recon_tool_final
-```
 ## 🧰 Setting Up a Virtual Environment (Recommended)
 
 To avoid dependency conflicts, it is recommended to create and use a Python virtual environment.
@@ -63,6 +53,16 @@ source venv/bin/activate  # For Linux/macOS
 # .\\venv\\Scripts\\Activate.ps1
 ```
 
+
+### 🔧 Installation
+
+```bash
+git clone https://github.com/ashardian/recon-tool
+cd recon-tool
+pip install -r requirements.txt
+sudo apt install whatweb whois
+cd recon_tool_final
+```
 
 ### 🧪 Run Example
 
