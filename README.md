@@ -107,10 +107,9 @@ recon_tool_final/
 
 ---
 
-## 👨‍💻 Author
-**Ashar Dian**  
-Tool developed for summer offensive security internship task.
+## 📄 License
+This project is licensed under [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/).  
+© 2025 Ashar Dian — All rights reserved. No commercial use or modification without permission.
 
-(c) 2025 — All rights reserved.
 
 ---
